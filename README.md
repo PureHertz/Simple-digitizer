@@ -1,4 +1,4 @@
 # Simple-digitizer
 
-Single channel simple digitizer using Seeeduino Xiao.
+Single channel simple digitizer using Seeduino Xiao.
 
